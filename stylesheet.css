@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'GyeonggiTitle';
+    src: url('GyeonggiTitleB.woff2') format('woff2'),
+        url('GyeonggiTitleB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GyeonggiTitle';
+    src: url('GyeonggiTitleM.woff2') format('woff2'),
+        url('GyeonggiTitleM.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GyeonggiTitle';
+    src: url('GyeonggiTitleL.woff2') format('woff2'),
+        url('GyeonggiTitleL.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
